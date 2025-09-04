@@ -1,0 +1,9 @@
+body{
+background-color: grey;
+}
+.destaque{
+    background-color: yellow;
+}
+#titulo-secao{
+    text-align: center;
+}
