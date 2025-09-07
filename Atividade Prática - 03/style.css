@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+.cartao{
+    background-color: black; 
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+    width: 300px
+}
